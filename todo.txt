@@ -1,0 +1,9 @@
+# Lines starting with # are comments
+# All times in 24 hour clock times
+# Start time  to  End time    Description
+#  HH:MM           HH:MM
+#==========================================
+12:00 to 13:00 Lunch
+13:00 to 14:00 Work
+14:00 to 15:30 Go to bank
+15:00 to 17:00 Pretend to work till EOD
