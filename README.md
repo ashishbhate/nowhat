@@ -1,4 +1,4 @@
 nowhat
 ======
 
-Simple ToDo list parser
+Simple todo list parser

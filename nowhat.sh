@@ -7,7 +7,7 @@ if [ $# -ne 1 ]; then
 else
     # Check if todo file is readable
     if ! [ -r $1 ]; then
-        echo "Cannot open ToDo file"
+        echo "Cannot open todo file"
         exit 1
     fi
 fi
