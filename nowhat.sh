@@ -2,7 +2,7 @@
 
 # Check if correct number of arguments
 if [ $# -ne 1 ]; then
-    echo "Bad arguments"
+    echo "Usage: $0 filename"
     exit 1
 else
     # Check if todo file is readable
