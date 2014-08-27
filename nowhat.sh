@@ -10,6 +10,9 @@ else
         echo "Cannot open todo file"
         exit 1
     fi
+    # Check if the user wants to make a new entry
+    # to the todo file.
+    # FIXME: add code here pls.
 fi
 
 TODO_FILE="$1"
