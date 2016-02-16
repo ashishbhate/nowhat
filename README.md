@@ -1,7 +1,7 @@
 nowhat
 ======
 
-Simple todo list parser
+Simple todo list parser.
 
 `Usage: nowhat.sh filename`
 
